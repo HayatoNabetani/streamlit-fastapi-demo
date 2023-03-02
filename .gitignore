@@ -1,0 +1,4 @@
+*.http
+venv
+__pycache__/
+*.db
